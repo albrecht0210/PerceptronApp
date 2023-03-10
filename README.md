@@ -1,3 +1,3 @@
 # PerceptronApp
 
-# Logic Gate Perceptron Application
+## Logic Gate Perceptron Application
